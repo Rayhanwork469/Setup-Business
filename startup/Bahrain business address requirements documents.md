@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business District with Corporate Buildings](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80 "A professional business district in Bahrain")
 
 # Bahrain Business Address Requirements & Documents: The Ultimate Guide for 2025

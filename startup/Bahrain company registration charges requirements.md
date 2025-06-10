@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Registration Charges & Requirements: The 2025 Ultimate Guide
 
 ![Modern Bahrain Cityscape](https://images.unsplash.com/photo-1519125323398-675f0ddb6308)  

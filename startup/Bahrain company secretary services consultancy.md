@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Professional business team discussing company secretary services in Bahrain - Unsplash](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Feature Image Alt Text: Professional business team discussing company secretary services in Bahrain*
 ---

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: A modern business district in Bahrain with iconic Gulf towers, courtesy of Pexels](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg)  
 *Alt text: Busy financial district in Bahrain reflecting its business-friendly environment*
 

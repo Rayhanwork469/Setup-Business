@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Skyline of Bahrain with modern business towers at sunset, symbolizing a flourishing tax-free business environment](https://images.unsplash.com/photo-1495106245174-54f6b2084c1a?auto=format&fit=crop&w=1500&q=80)  
 *Alt text: Manama cityscape, Bahrain—modern high-rises, vibrant business hub*  
 _Source: Unsplash_

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation Timeline & Benefits: A Complete 2025 Guide
 
 *Unlock Bahrain's business potential: Explore the timeline, strategic advantages, and detailed steps to set up your company—faster, smoother, and smarter!*

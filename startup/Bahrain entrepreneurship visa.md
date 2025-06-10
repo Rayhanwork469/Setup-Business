@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business professionals meeting in Bahrain’s financial district, with city skyline in the background.](https://images.unsplash.com/photo-1556740772-1a741367b93e?fit=crop&w=1200&q=80 "Entrepreneurship in Bahrain - Photo by Austin Distel on Unsplash")
 
 # Bahrain Entrepreneurship Visa: Your Ultimate Guide for 2025 🚀

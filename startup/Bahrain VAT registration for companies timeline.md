@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain VAT Registration for Companies: Full Timeline & Expert Guide
 
 ![Feature Image: Business professionals discussing VAT registration in Bahrain, with city skyline in background](https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg)

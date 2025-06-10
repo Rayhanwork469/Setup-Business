@@ -1,4 +1,4 @@
-```markdown
+
 # Company Formation in Manama, Bahrain: The Ultimate 2025 Guide
 
 ![Skyline of Manama Bahrain](https://images.pexels.com/photos/17811445/pexels-photo-17811445.jpeg?auto=compress&w=1600)  

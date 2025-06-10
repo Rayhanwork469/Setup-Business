@@ -1,4 +1,4 @@
-```markdown
+
 ![Business center in Bahrain with modern skyline – image by Unsplash](https://images.unsplash.com/photo-1521790797524-b2497295b8c8?auto=format&fit=crop&w=1350&q=80)  
 *Alt text: Modern business district in Bahrain with glass skyscrapers and bright city lights.*
 

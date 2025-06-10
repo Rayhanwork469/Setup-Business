@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business Skyline in Muharraq, Bahrain | Photo by Simon Berger on Unsplash](https://images.unsplash.com/photo-1515169273897-94b3e6b7353c?auto=format&fit=crop&w=1400&q=80 "Feature Image: Modern Cityscape of Muharraq, Bahrain")
 
 # Company Registration in Muharraq 2024: The Complete Guide for Local & Foreign Entrepreneurs

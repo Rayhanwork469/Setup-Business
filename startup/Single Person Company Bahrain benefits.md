@@ -1,4 +1,4 @@
-```markdown
+
 # Single Person Company Bahrain Benefits: The Complete 2025 Guide
 
 ![Modern Skyline of Bahrain with Business District at Sunrise](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)

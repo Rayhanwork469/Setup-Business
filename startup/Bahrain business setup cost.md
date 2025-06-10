@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline With Business District – Unsplash. Alt: Bahrain Business Setup Cost – Modern Skyline, Business District, Gulf Country.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80)
 
 # Bahrain Business Setup Cost: The Ultimate 2025 Guide

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation FAQ Process: The Ultimate 2025 Guide for Entrepreneurs & Investors
 
 ![Skyline of Manama, Bahrain at Sunset – A Thriving Business Hub](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1050&q=80)  

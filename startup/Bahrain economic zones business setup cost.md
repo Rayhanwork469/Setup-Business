@@ -1,4 +1,4 @@
-```markdown
+
 ![Business district in Bahrain with modern skyscrapers and port facilities.](https://images.pexels.com/photos/1619311/pexels-photo-1619311.jpeg)
 *Alt text: Bahrain’s business district at sunset with commercial towers and waterfront, reflecting the dynamic economic landscape.*
 

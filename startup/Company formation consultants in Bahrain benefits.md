@@ -1,4 +1,4 @@
-```markdown
+
 ![Business professionals discussing Bahrain company formation strategy in a modern office](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
 *Feature image: Business professionals discussing Bahrain company formation strategy in a modern office. Source: Unsplash*
 

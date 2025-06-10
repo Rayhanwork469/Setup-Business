@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline with Business Towers](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80)
 *alt: Bahrain skyline showing modern business towers and financial district – perfect for business setup consultation themes*
 

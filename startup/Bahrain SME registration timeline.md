@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain SME Registration Timeline: A Complete 2025 Guide
 
 ![Panoramic view of Manama, Bahrain’s capital, showing a vibrant business district – Pexels](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg)

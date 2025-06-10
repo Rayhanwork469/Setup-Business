@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business Skyline](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Bahrain's modern city skyline with business towers, perfect illustration for company registration topics*  
 Image source: [Unsplash](https://unsplash.com/photos/photo-1506744038136-46273834b3fb)

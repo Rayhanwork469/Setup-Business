@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Requirements for Company Registration in Bahrain: Costs, Processes & Expert Guide [2025]"
 description: "Discover the full costs, legal requirements, step-by-step guide, and expert tips for company registration in Bahrain. Written by a professional SEO strategist with real-world insights, updated for 2025."

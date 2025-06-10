@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern business district in Bahrain with offshore company offices](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80 "Business Skyline: Bahrain as an Offshore Company Destination")
 
 # Bahrain Offshore Company Formation Benefits: The Ultimate Guide for Global Entrepreneurs

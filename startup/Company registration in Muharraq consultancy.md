@@ -1,4 +1,4 @@
-```markdown
+
 # Company Registration in Muharraq Consultancy: The Ultimate 2025 Guide for Entrepreneurs
 
 ![Modern Skyline of Muharraq, Bahrain](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern Bahrain Business District with Skyscrapers and Traditional Boats – Feature Image](https://images.pexels.com/photos/3184312/pexels-photo-3184312.jpeg)
 *Alt text: Bahrain business district skyline showcasing skyscrapers, highlighting business opportunities and modern infrastructure.*
 

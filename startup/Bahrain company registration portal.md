@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image of Bahrain Company Registration Portal – Business Setup Concept](https://images.pexels.com/photos/3183171/pexels-photo-3183171.jpeg?auto=compress&w=1400)
 *Alt text: Two business professionals reviewing company registration documents on a digital portal in Bahrain*
 

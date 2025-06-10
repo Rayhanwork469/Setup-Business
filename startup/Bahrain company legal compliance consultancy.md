@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business professionals consulting on compliance in Bahrain](https://images.unsplash.com/photo-1450101499163-c8848c66ca85?fit=crop&w=1200&q=80)
 *alt text: Professional business consultation in a modern Bahraini office, emphasizing company legal compliance.*
 

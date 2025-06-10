@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern office space in Bahrain with business professionals collaborating - Unsplash](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80 "Feature image: Modern office space in Bahrain")
 
 # Bahrain Office Space for Company Registration: A Step-by-Step, Expert Guide 🏢🇧🇭

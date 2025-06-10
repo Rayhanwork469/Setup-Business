@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain business annual report filing - business professionals holding documents around a calendar](https://images.unsplash.com/photo-1515168833906-1ef0b138f6c5?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Business professionals reviewing annual filing documents and a marked calendar, representing Bahrain company annual filing timeline - Unsplash*
 

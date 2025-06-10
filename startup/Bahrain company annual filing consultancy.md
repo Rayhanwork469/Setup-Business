@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Professional business people working in an office setting, representing Bahrain annual filing consultancy](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1350&q=80)
 *Feature Image Alt Text: Professional consultants discussing annual company filing in Bahrain.*
 

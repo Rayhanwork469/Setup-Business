@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Diverse group of business professionals discussing strategy with Bahrain and Oman cityscapes in background](https://images.unsplash.com/photo-1515168833906-d2a3b82b0802?auto=format&fit=crop&w=1350&q=80 "Bahrain company formation vs Oman consultancy")
 
 # Bahrain Company Formation vs Oman Consultancy: Your Essential 2025 Guide to Middle East Business Success

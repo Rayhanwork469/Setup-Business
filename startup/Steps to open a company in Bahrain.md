@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain business skyline at dusk, bustling city with modern office towers.](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80 "Bahrain Business District Skyline")
 
 # Steps to Open a Company in Bahrain: The Ultimate Guide for Entrepreneurs [2025]

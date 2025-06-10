@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Corporate Bank Account Timeline: The Ultimate Guide for 2025
 
 ![Modern Bahrain Financial District Skyline](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?fit=crop&w=1000&q=80)

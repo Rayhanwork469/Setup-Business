@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: "Bahrain Company Setup Procedure Timeline: The Ultimate 2025 Guide"
 description: "Explore a comprehensive, expert-crafted guide to Bahrain company setup procedures and timelines. Learn every step, legal nuance, and actionable insight you need for successful business formation in Bahrain."

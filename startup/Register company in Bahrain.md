@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business District in Bahrain - Image by Pexels, Alt: Bahrain business skyline with modern buildings](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg)
 
 # Register Company in Bahrain: The 2025 Step-by-Step Guide for Entrepreneurs and Investors

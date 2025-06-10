@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district skyline with high-rise buildings and Arabian Gulf in foreground. Alt text: Bahrain business setup in 2025 - modern commercial skyline. Source: [Unsplash](https://unsplash.com/photos/4HG3Ca3EzWw)](https://unsplash.com/photos/4HG3Ca3EzWw)
 
 # Bahrain Business Setup Guide 2025: Your Step-by-Step Playbook for Success

@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: Bahrain Company Tax Registration 2024: The Ultimate Guide for Business Success
 description: A thorough, SEO-optimized, and human-focused guide to Bahrain company tax registration in 2024. Learn step-by-step processes, legal requirements, expert insights, case studies, and practical tips for foreign investors and business owners in Bahrain.

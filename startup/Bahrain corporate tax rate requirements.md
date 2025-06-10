@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Professional business meeting in Bahrain with city skyline](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80 "Business team discussing in Bahrain office with city skyline")
 
 # Bahrain Corporate Tax Rate Requirements: The 2025 Expert Guide

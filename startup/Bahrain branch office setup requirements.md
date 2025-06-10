@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business District in Bahrain with high-rise offices, clear blue sky, and cityscape - representing economic growth and opportunity.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1500&q=80 "Bahrain Business Skyline - Unsplash")
 
 # Bahrain Branch Office Setup Requirements: The Step-by-Step Guide for International Businesses 🌍

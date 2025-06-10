@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business environment in Bahrain, showing professionals working with digital financial data and city skyline.](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1400&q=80)
 *Alt text: Bahrain cityscape with business professionals reviewing financial data — symbolizing Bahrain's auditing landscape*
 

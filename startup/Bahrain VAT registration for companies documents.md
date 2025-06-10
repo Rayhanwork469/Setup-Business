@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain VAT Registration for Companies: Complete Guide to Documents, Process, and Expert Insights (2025)
 
 ![Modern Bahrain Cityscape - VAT Registration Context](https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1400&q=80 "Modern Bahrain Cityscape with Corporate Buildings")

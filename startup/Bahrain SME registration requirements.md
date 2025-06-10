@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image - Bahrain Business District | Alt: Skyline of Bahrain with modern business towers, representing SME growth](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1400&q=80)
 
 # Bahrain SME Registration Requirements (2025): The Expert’s Guide

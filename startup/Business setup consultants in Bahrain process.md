@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain’s skyline with business professionals | Source: Pexels](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg)
 *Alt text: Modern Bahrain skyline with business professionals discussing company formation.*
 

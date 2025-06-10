@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Commercial Registration Documents: Your Ultimate 2025 Guide to Business Success 🇧🇭
 
 *Unlock the secrets to seamless business setup in Bahrain with our comprehensive guide on commercial registration documents. Whether you’re a local entrepreneur or an eager foreign investor, this article will walk you through every requirement, regulation, and tip you need to succeed!*

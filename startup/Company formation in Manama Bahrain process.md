@@ -1,4 +1,4 @@
-```markdown
+
 ![Business District in Manama, Bahrain - Feature Image](https://images.unsplash.com/photo-1506740491300-058b6b145982?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Aerial view of Manama’s business district, highlighting a modern cityscape with financial and commercial buildings – Ideal for illustrating company formation in Bahrain*  
 [Photo Source: Unsplash](https://unsplash.com/photos/aerial-view-of-skyscraper-buildings-WTj7s57pR4U)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain business skyline with startups and consulting teams](https://images.unsplash.com/photo-1518640467707-6811f4a6ab73?auto=format&fit=crop&w=1400&q=80)
 *Alt text: Modern Bahrain city skyline with business professionals collaborating; source: Unsplash*
 

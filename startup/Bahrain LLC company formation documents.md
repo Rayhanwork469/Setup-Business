@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain LLC Company Formation Documents: The Complete 2025 Guide
 
 *Unlocking Bahrain’s business potential, one document at a time!*

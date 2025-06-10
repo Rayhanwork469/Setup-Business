@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Skyline of Manama, Bahrain with modern business towers, symbolizing economic growth and opportunity](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)
 *alt: Downtown Manama, Bahrain business district, with modern high-rises and palm trees (source: Unsplash)*
 

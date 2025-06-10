@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain vs Dubai Company Formation Process: An In-Depth Guide for 2025
 
 ![Bahrain and Dubai skyline](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)

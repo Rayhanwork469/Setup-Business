@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern City Skyline with Business District - source: Unsplash](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Modern city skyline representing business hubs like Bahrain and Dubai.*
 

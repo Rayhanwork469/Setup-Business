@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain skyline with prominent business towers and blue sky. Source: Unsplash](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Bahrain's skyscrapers – a symbol of the country's thriving business environment.*
 

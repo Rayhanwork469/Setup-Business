@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Business registration documents and a pen on a Bahraini flag background.](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=80 "Feature image: Company registration in Bahrain documents and a pen on an office table")
 
 # Bahrain SPC Registration Guide: Start Your Single Person Company With Confidence

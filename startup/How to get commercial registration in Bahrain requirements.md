@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district with skyscrapers and bustling city life.](https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg)
 *Alt text: Bahrain business district with commercial buildings and blue skies, representing business opportunities in Bahrain.*  
 Photo by [Ahmad Ardity](https://www.pexels.com/photo/architecture-buildings-city-cityscape-3601425/) on Pexels

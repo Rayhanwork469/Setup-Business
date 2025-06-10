@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Professional business team discussing Bahrain company formation.](https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg)
 *Alt text: Business professionals collaborating on Bahrain company formation, representing consultancy expertise.*
 

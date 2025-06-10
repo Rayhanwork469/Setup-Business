@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business Meeting in Bahrain](https://images.unsplash.com/photo-1515168833906-d2a3b9d4a660?auto=format&fit=crop&w=1350&q=80)
 *Feature Image Alt Text: Professionals discussing company formation at a sleek Bahrain office (Source: Unsplash)*
 

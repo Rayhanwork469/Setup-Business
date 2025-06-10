@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business professionals reviewing Bahrain company documents](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Entrepreneurs discussing company name reservation in Bahrain over documents and a laptop*
 

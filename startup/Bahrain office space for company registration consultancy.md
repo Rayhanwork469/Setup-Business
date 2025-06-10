@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image - Modern Bahrain Office Space with City Skyline](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Feature Image: Bahrain’s thriving business district, ideal for company registration consultancies. [Photo by Christina @ wocintechchat.com on Unsplash](https://unsplash.com/photos/2OoiGrR-CwM)*
 

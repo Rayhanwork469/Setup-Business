@@ -1,4 +1,4 @@
-```markdown
+
 # 100% Foreign Ownership in Bahrain: The True Cost Breakdown and Business Setup Guide (2025)
 
 ![Feature Image: Bahrain Financial District Skyline with Sunrise Light, Business Theme](https://images.unsplash.com/photo-1464983953574-0892a716854b?fit=crop&w=1350&q=80)

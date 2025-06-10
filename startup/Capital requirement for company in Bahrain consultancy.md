@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline with Business District – Unsplash, Alt Text: Modern Bahrain Skyline with Business Buildings, perfect for business setup context](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80)
 
 # 📈 Capital Requirement for Company in Bahrain Consultancy: The Definitive Guide (2025)

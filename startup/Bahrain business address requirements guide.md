@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Entrepreneurship Visa 2024: The Ultimate Guide to Unlocking Business Success in the Gulf
 
 *Author: Perplexity AI SEO Team | Published: June 3, 2025*

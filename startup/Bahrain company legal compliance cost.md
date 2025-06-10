@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business District in Bahrain | Alt: Modern skyline of Manama Bahrain, office buildings, and entrepreneurs networking | Source: [Unsplash](https://unsplash.com/photos/cityscape-during-sunset-xg8z_KhSorQ)](https://unsplash.com/photos/cityscape-during-sunset-xg8z_KhSorQ)
 
 # Bahrain Company Legal Compliance Cost: The 2025 Guide to Smart Business

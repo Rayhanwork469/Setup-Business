@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain vs Dubai Company Formation Benefits: A Comprehensive Guide for 2025
 
 ![Modern city skylines of Bahrain and Dubai, showing economic vibrancy](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80 "Bahrain and Dubai Skylines")

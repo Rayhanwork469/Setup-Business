@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation vs Oman Cost: The Ultimate 2025 Guide for Entrepreneurs & Investors
 
 ![Man overlooking city skyline with business documents in hand – represents choosing where to form a company](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1000&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business License Requirements: The Ultimate 2025 Guide for Entrepreneurs & Investors
 
 *By [Your Name], SEO Strategist & Business Consultant*

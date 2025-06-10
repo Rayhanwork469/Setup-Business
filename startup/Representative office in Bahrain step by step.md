@@ -1,4 +1,4 @@
-```markdown
+
 # How to Open a Representative Office in Bahrain: Step-by-Step Complete Guide (2025 Edition)
 
 ![Modern Manama Skyline at Dusk – The Ideal Place for Global Business Entry](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)

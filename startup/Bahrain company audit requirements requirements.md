@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Audit Requirements: Your Definitive Guide for 2025 🚀
 
 ![Skyline of Bahrain with business district buildings at dusk, symbolizing growth and transparency.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)  

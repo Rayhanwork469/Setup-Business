@@ -1,4 +1,4 @@
-```markdown
+
 ![Business district of Manama with skyscrapers](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)
 *Bahrain’s thriving commercial heart, where business opportunities beckon.*  
 **Image source: Unsplash**

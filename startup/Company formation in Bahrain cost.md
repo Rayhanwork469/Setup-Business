@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business District Skyline at Sunset](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Bahrain’s business district skyline with modern skyscrapers and bustling city at sunset, illustrating a thriving business hub.*
 

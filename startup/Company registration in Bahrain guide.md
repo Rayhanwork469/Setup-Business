@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district skyline with high-rise offices and waterfront | Source: Unsplash](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Bahrain city skyline with business towers, representing the country’s thriving entrepreneurial environment.*
 

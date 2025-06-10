@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business team exploring Bahrain Free Zone opportunities](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80 "A group of business professionals discussing free zone company registration in Bahrain")
 *Image Source: Unsplash. Alt text: Business professionals in a modern office discussing company formation in Bahrain Free Zone.*
 

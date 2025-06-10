@@ -1,4 +1,4 @@
-```markdown
+
 # Company Registration in Muharraq Timeline: Your Complete 2025 Guide 🚀
 
 *Unlocking business potential in Bahrain’s vibrant city—step-by-step, with clarity and confidence.*

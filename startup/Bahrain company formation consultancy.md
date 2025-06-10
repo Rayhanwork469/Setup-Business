@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: A professional business meeting in modern Bahrain offices, showing advisers and clients discussing paperwork.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Business professionals consulting in a modern Bahrain office, symbolizing company formation consultancy services.*
 

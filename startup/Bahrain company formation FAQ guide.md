@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation FAQ Guide: The Ultimate 2025 Resource 🌟
 
 *Author: [Perplexity AI Business Research Team]  

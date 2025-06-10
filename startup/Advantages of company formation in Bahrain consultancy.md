@@ -1,4 +1,4 @@
-```markdown
+
 # Advantages of Company Formation in Bahrain Consultancy: The Ultimate Guide for Entrepreneurs in 2025
 
 ![Feature Image: Professional businesspeople discussing consultancy advantages in Bahrain](https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg)

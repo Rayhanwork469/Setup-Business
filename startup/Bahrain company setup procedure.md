@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Skyline of Bahrain with business district in focus](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)
 *Alt text: Bahrain Manama skyline with business towers at dusk, symbolizing economic opportunity*  
 _Source: Unsplash_

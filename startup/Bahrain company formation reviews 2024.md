@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern Bahrain city skyline with business towers, representing company formation opportunities](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80 "Bahrain company formation – Unsplash")
 
 # Bahrain Company Formation Reviews 2024: Expert Guide & Real Insights

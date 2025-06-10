@@ -1,4 +1,4 @@
-```markdown
+
 # Single Person Company Bahrain Cost: The Ultimate Guide for 2025
 
 ![Modern Bahrain Skyline with Business District](https://images.unsplash.com/photo-1464983953574-0892a716854b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)

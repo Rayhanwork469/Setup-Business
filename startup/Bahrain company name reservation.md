@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: Bahrain Company Name Reservation: The Ultimate Guide for Entrepreneurs in 2025
 description: "Your authoritative, step-by-step manual to reserving a business name in Bahrain. Learn the rules, process, expert insights, and common pitfalls—SEO-optimized and packed with real-world examples."

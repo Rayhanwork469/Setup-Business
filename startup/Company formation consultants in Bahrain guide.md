@@ -1,4 +1,4 @@
-```markdown
+
 # The Ultimate Guide to Company Formation Consultants in Bahrain (2025 Edition)
 
 *Unlocking Business Opportunities in the Heart of the Gulf* 🌟

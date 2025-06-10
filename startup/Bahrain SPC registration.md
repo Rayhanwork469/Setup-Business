@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain SPC Registration: The Complete 2025 Guide To Starting Your Solo Business in Bahrain
 
 ![Modern view of Manama's financial district at sunset with corporate buildings, symbolizing business opportunities in Bahrain.](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image - Bahrain Business District](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1400&q=80)
 *Alt text: Modern business buildings in Bahrain skyline symbolizing corporate environment*
 

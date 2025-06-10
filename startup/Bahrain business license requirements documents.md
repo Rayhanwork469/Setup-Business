@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business District Skyline with High-Rise Buildings](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Skyline of Bahrain business district with skyscrapers reflecting the nation’s business ambitions (Source: Unsplash)*
 

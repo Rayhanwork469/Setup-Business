@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Investor Visa Timeline: The Ultimate Guide for 2025
 
 *Unlocking business opportunities in the heart of the Gulf — your comprehensive roadmap to the Bahrain Investor Visa process, timelines, and strategic insights for global entrepreneurs.*

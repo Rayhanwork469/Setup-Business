@@ -1,4 +1,4 @@
-```markdown
+
 # 100% Foreign Ownership Bahrain Process: The Complete 2025 Guide for Global Entrepreneurs
 
 ![Modern Bahrain skyline with business towers and city view](https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1350&q=80)

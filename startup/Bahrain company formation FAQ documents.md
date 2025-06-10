@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation FAQ Documents: The Ultimate Guide for 2025 📑
 
 *Everything you need to know about setting up a company in Bahrain – complete with expert insights, step-by-step documentation, legal requirements, and interactive tools to kickstart your business journey in the Kingdom.*

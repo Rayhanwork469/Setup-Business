@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business district in Bahrain with skyscrapers and blue sky](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&w=1400)
 *Alt text: Bahrain’s financial district skyline, representing the country’s booming business environment*  
 _Source: [Pexels](https://pexels.com)_

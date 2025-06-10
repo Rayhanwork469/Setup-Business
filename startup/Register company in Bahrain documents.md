@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business Skyline — Alt Text: Vibrant business district in Bahrain with modern towers and Gulf view, symbolizing economic growth and entrepreneurship.](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 
 # Register Company in Bahrain: Essential Documents & Step-by-Step Guide [2025 Edition]

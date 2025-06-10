@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain business skyline and registration documents – Professional business feature image, Alt text: Modern Bahrain skyline and business paperwork, Unsplash](https://images.unsplash.com/photo-1519125323398-675f0ddb6308)
 
 # Bahrain Business Registration Guide: Step-by-Step Setup for Local & Foreign Investors (2025) 

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Setup for Expats Guide 🌍 | The Ultimate 2025 Resource
 
 ![Skyline of Manama, Bahrain’s Vibrant Business Hub](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1050&q=80 "Bahrain Business Skyline")  

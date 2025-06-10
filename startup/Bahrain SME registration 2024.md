@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business District with Skyscrapers and Palm Trees](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Modern Bahrain business district skyline, capturing the economic heartbeat of the Kingdom (Source: Unsplash)*
 

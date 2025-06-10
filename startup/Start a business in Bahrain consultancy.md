@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business Skyline](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80 "Bahrain Business District Skyline")
 
 # Start a Business in Bahrain Consultancy: The Ultimate 2025 Guide

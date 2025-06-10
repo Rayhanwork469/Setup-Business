@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business Visa Timeline: A Complete, SEO-Optimized Guide for 2025
 
 ![Modern Bahrain Skyline at Sunset](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80 "Bahrain Business Skyline")

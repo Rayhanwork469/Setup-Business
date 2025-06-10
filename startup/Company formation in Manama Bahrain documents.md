@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business Office in Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Modern business workspace in Manama Bahrain, capturing growth and international investment.*
 

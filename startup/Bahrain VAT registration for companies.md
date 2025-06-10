@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain VAT Registration for Companies: The Complete 2025 Guide
 
 ![Cityscape of Bahrain’s financial district at dusk](https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg)

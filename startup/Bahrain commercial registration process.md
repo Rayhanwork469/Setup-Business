@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Commercial Registration Process: The Ultimate 2025 Guide
 
 ![Bahrain Business Skyline](https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg)  

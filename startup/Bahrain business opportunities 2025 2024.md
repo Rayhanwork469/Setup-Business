@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline – a hub of emerging business opportunities](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 *Alt text: View of Bahrain's urban skyline symbolizing business growth and opportunities*  
 _Image Source: [Unsplash](https://unsplash.com/photos/modern-bahrain-skyline-1506744038136-46273834b3fb)_

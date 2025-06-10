@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain SME Registration Process: The Definitive 2025 Guide 🚀
 
 ![Modern skyline of Manama, Bahrain, at dusk – a hub for SMEs.](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1200&q=80 "Bahrain SME Registration Guide - Unsplash")

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain skyline at sunset, highlighting its business district.](https://images.unsplash.com/photo-1464983953574-0892a716854b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80)
 *Alt text: Bahrain’s modern skyline symbolizing business growth opportunities.*
 

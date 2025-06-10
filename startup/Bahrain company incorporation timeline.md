@@ -1,4 +1,4 @@
-```markdown
+
 ![Featured image: Modern business towers in Manama, Bahrain with blue sky, symbolizing corporate opportunities. Photo by *mohamed_hassan* on Pixabay](https://cdn.pixabay.com/photo/2017/01/20/00/30/bahrain-1995889_1280.jpg "Business towers in Manama")
 
 # Bahrain Company Incorporation Timeline: The Definitive 2025 Guide 🕰️🇧🇭

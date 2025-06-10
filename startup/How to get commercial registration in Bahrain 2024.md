@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Cityscape with Business District](https://images.unsplash.com/photo-1549921296-a0106f151dcd?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Aerial view of Bahrain’s business district, showcasing modern high-rises and commercial potential.*
 

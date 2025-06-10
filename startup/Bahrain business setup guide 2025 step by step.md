@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business Setup Guide 2025: Step-by-Step to Success 🚀
 
 ![Skyline of Bahrain with iconic buildings and vivid blue sky](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)

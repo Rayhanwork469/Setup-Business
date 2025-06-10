@@ -1,4 +1,4 @@
-```markdown
+
 # Cheapest Company Formation in Bahrain: The Ultimate 2025 Guide
 
 ![Feature Image: Modern Bahrain skyline and business hub](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)

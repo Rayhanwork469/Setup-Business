@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern business district in Bahrain with skyscrapers and blue sky. Source: Unsplash.](https://images.unsplash.com/photo-1517935706615-2717063c2225?ixlib=rb-4.0.3&auto=format&fit=crop&w=1170&q=80 "Bahrain Business District")
 
 # Bahrain Holding Company Formation Process – The Complete 2025 Guide

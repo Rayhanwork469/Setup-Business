@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahraini business district skyline, symbolizing corporate change and company liquidation in Bahrain.](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&w=1400&q=80 "Bahrain business district during sunset, symbolizing transformation")
 
 # Bahrain Company Liquidation Process Guide: A Step-by-Step Walkthrough for 2025 🚀

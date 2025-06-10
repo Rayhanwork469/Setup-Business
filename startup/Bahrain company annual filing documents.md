@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Skyline with Business Documents Overlay](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 *Alt text: View of Manama, Bahrain with business documents laid out, symbolizing annual company filings.*
 

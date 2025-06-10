@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern office buildings in Bahrain, business hub with blue skies.](https://images.unsplash.com/photo-1454023492550-5696f8ff10e1?auto=format&fit=crop&w=1200&q=80)
 *Feature image: Bahrain business district towers | Source: [Unsplash](https://unsplash.com/photos/1454023492550-5696f8ff10e1)*
 

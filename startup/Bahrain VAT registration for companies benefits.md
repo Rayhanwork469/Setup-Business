@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business District with Modern Buildings and VAT Concept Overlay](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1400&q=80)
 *Alt: A panoramic view of Bahrain’s bustling business district with modern skyscrapers, alluding to the economic growth driven by VAT registration.*
 

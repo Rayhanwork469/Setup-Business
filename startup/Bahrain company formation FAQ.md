@@ -1,4 +1,4 @@
-```markdown
+
 ---
 title: Bahrain Company Formation FAQ: Your Expert Guide to Starting a Business in Bahrain
 description: Explore everything you need to know about Bahrain company formation through this detailed, expert FAQ. From costs to foreign ownership, CR registration, free zones, and real-world advice, start your business with confidence.

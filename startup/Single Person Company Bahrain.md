@@ -1,4 +1,4 @@
-```markdown
+
 ![Business people in Bahrain discussing company formation](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1350&q=80)
 *Feature Image: Professionals collaborating on business planning in Bahrain. Photo via [Unsplash](https://unsplash.com/).*
 

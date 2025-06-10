@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline with Business High-Rises](https://images.unsplash.com/photo-1464983953574-0892a716854b?fit=crop&w=1350&q=80)
 *Alt text: Bahrain skyline with high-rise buildings, representing business and economic hub.*
 

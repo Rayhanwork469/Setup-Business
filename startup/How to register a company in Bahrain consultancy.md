@@ -1,4 +1,4 @@
-```markdown
+
 # How to Register a Company in Bahrain Consultancy: The Ultimate Guide for 2025 🚀
 
 **Author:** SEO Strategist & Business Consultant  

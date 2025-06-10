@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business buildings in Bahrain, symbolizing entrepreneurship and investment opportunities](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Skyscrapers in Bahrain representing business growth and company formation*
 

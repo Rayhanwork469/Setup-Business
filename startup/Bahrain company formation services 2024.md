@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation Services 2024: The Ultimate Guide to Starting Your Business in the Pearl of the Gulf
 
 ![Skyline of Manama, Bahrain's Capital, at sunset](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)

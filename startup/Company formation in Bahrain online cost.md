@@ -1,4 +1,4 @@
-```markdown
+
 # Company Formation in Bahrain Online Cost: The Complete 2025 Guide for Entrepreneurs
 
 ![Modern Bahrain Skyline at Sunset](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)

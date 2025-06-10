@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business District Skyline](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80 "Business Skyline in Bahrain")
 
 *Alt text: Sunrise view of a modern business district in Bahrain with prominent office buildings and cityscape.*

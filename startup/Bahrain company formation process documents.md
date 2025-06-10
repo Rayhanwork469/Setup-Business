@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business Skyline - Alt text: Modern business skyscrapers in Bahrain at dusk](https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg)
 
 # Bahrain Company Formation Process & Documents: The 2025 Guide

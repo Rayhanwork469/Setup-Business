@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district with iconic cityscape and financial towers](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 *Alt: A vibrant business district in Bahrain, reflecting the country’s dynamic corporate landscape.*
 

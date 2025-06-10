@@ -1,4 +1,4 @@
-```markdown
+
 ![Businessmen shaking hands over company formation documents in Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 *Feature Image Alt Text: Businessmen in formal attire discussing company formation in Bahrain*
 

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Entrepreneurship Visa 2024: The Ultimate Guide for Global Founders 🚀
 
 > **Author:** [Perplexity Editor | SEO & Business Expert]  

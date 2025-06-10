@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern Bahrain Business District with Skyscrapers at Sunset](https://images.unsplash.com/photo-1464983953574-0892a716854b?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80)
 *Feature Image: Bahrain’s thriving business hub, illustrating the growth and transparency that audit compliance supports. (Photo by [Unsplash](https://unsplash.com/))* 
 

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district skyline with office towers and start-ups, symbolizing economic growth and opportunity](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Skyscrapers and office buildings in Bahrain under a blue sky, representing commercial real estate options in Manama’s financial district.*
 

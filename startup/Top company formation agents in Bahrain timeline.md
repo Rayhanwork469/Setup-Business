@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business towers in Bahrain, symbolizing growth and opportunity.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Skyscrapers and business district in Bahrain representing corporate growth and international investment. Source: Unsplash*
 

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain and Dubai Skylines Representing Business Formation](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Contrasting Bahrain and Dubai skylines, representing company formation opportunities in both regions – source: Unsplash*
 

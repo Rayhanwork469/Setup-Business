@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern Business Meeting in Bahrain Office](https://images.unsplash.com/photo-1515168833906-d2a3b82b6b1a?auto=format&fit=crop&w=1350&q=80)
 *Modern business team discussing company registration process in Bahrain - Unsplash*
 

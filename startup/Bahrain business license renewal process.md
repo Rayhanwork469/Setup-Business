@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business License Renewal Process: The Complete 2025 Guide
 
 *[Image: A modern Bahrain cityscape with business towers – source: Unsplash, alt="Skyline of Manama, Bahrain's business district"]*

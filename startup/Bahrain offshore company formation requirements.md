@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Offshore Company Formation Requirements: The Ultimate 2025 Guide 🌍
 
 ![Skyline of Bahrain's Financial District, Symbolizing Offshore Business Opportunities](https://images.unsplash.com/photo-1512453979798-5ea266f8880c?fit=crop&w=1200&q=80)

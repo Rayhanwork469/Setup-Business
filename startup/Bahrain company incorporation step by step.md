@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business hub skyline](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 *Bahrain's bustling business district invites entrepreneurs to new opportunities.*  
 *Photo by [Ibrahim Ajaja](https://unsplash.com/photos/Bahrain-Skyscraper) on Unsplash*

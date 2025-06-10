@@ -1,4 +1,4 @@
-```markdown
+
 ![Bahrain Company Setup - Feature Image](https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3w5fDB8MHxzZWFyY2h8Mnx8YnVzaW5lc3N8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60)
 *alt: Modern business desk symbolizing Bahrain company setup*
 

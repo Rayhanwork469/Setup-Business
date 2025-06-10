@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation Cost & Timeline: The Complete 2025 Guide
 
 **Published: June 2025**

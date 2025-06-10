@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Offshore Company Formation in Bahrain](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80 "Business district skyline representing Bahrain's global business hub. Source: Unsplash")
 
 # Bahrain Offshore Company Formation Process: The Ultimate Guide for 2025

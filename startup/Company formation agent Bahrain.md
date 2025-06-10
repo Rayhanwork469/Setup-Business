@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business district in Bahrain with company team, symbolizing company formation agents.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80 "Bahrain business district - Unsplash")
 
 # Company Formation Agent Bahrain: Your Complete Guide to Smooth Business Setup 🚀

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Cityscape with Business Tower — Unsplash](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80 "Modern Business District in Bahrain")
 
 # Company Registration in Bahrain: Complete Guide to Required Documents (2025)

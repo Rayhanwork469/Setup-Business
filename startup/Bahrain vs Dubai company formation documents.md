@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain vs Dubai Company Formation Documents: A Comprehensive Guide (2025)
 
 ![Business documents on a desk with Bahrain and Dubai flags in the background.](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=80)

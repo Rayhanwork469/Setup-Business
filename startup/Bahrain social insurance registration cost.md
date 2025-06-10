@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business Registration in Bahrain | Alt text: Modern Bahrain skyline with business people discussing paperwork](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)
 
 # Bahrain Social Insurance Registration Cost: The Essential 2025 Guide For Employers & Entrepreneurs

@@ -1,4 +1,4 @@
-```markdown
+
 # Company Registration Process in Bahrain Timeline: The Ultimate 2025 Guide
 
 *Expertly crafted by a seasoned SEO strategist and business writer | Updated June 2025*

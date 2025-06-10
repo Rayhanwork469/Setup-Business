@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: A Diverse Group Registering Their New Business in Bahrain – Alt: Entrepreneurs finalizing company registration paperwork in a modern Bahraini office](https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg)
 
 # How to Register a Company in Bahrain: The Ultimate 2025 Guide

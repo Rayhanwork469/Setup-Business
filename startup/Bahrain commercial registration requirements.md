@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Commercial Registration Requirements: The Ultimate 2025 Guide for Entrepreneurs
 
 *Author: Expert SEO Strategist and Human Writer, reviewed June 2025*  

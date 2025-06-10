@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain business district with skyscrapers and blue skies.](https://images.pexels.com/photos/1666022/pexels-photo-1666022.jpeg)  
 *Alt text: Bahrain’s gleaming skyline, symbolizing a dynamic business environment.*  
 

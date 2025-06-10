@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Cityscape with Business District](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Modern view of Bahrain’s cityscape and business towers, reflecting the country’s financial sector.*
 Source: [Unsplash](https://unsplash.com/photos/1464983953574-0892a716854b)  

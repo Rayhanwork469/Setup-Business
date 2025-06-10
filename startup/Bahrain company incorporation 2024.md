@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Bird’s-eye view of Bahrain’s Manama skyline featuring business towers at dusk, symbolizing opportunity and growth | Photo by Kenan Süleymanoğlu on Unsplash](https://images.unsplash.com/photo-1516528387618-afa90b13e000?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Bahrain’s financial district skyline, evening city lights, representing business opportunities in 2024.*
 

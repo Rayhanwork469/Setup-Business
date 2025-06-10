@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Tax Benefits & Costs: The Ultimate 2025 Guide
 
 *Unlocking the Secrets to Business Success in the Gulf*  

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Registration Portal Documents: The Ultimate 2025 Guide to Hassle-Free Registration
 
 ![Modern Bahrain skyline with business area](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Business professionals reviewing documents with Bahrain and Oman flags overlay.](https://images.unsplash.com/photo-1556740738-b6a63e27c4df?auto=format&fit=crop&w=1200&q=80)
 *Feature Image Alt Text: Business professionals reviewing documents, Bahrain and Oman flags in background.*
 

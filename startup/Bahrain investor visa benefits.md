@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Business District with Modern Skyscrapers](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1000&q=80 "Bahrain financial district with business people and city skyline")
 
 # Bahrain Investor Visa Benefits: The Ultimate Guide for Global Entrepreneurs

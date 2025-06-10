@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Secretary Services Benefits: The Strategic Advantage for Business Growth 🚀
 
 ![Modern office buildings in Bahrain’s financial district](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 # Single Person Company Bahrain Timeline: The Complete Guide (2025)
 
 *Unlocking Solo Entrepreneurship in Bahrain: Everything You Need to Know, Step by Step*  

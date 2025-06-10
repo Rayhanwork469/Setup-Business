@@ -1,4 +1,4 @@
-```markdown
+
 # Steps to Open a Company in Bahrain: Costs, Process & Expert Insights (2025)
 
 *Published: June 3, 2025 | SEO-Optimized | Author: Perplexity AI, Business Consultant*

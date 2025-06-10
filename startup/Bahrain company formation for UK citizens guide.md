@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation for UK Citizens: The Ultimate 2025 Guide 🇧🇭🇬🇧
 
 *Everything UK entrepreneurs, investors, and seasoned business owners need to know to confidently form and launch a successful company in Bahrain.*

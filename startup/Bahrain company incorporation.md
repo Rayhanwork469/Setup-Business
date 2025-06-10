@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business Skyline in Bahrain - Pexels](https://images.pexels.com/photos/210604/pexels-photo-210604.jpeg?auto=compress&fit=crop&w=1400&q=80)
 *Alt text: Downtown Bahrain with skyscrapers and business district in daylight*
 

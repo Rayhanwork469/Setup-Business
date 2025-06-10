@@ -1,4 +1,4 @@
-```markdown
+
 ![Featured Image: Bahrain Business Skyline with Entrepreneurs at Sunrise](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1450&q=80)
 *Alt text: Bahrain skyline at sunrise, modern business buildings, entrepreneurial energy*  
 _Image: Unsplash_

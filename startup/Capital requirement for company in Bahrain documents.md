@@ -1,4 +1,4 @@
-```markdown
+
 ![Featured image: Bahrain’s vibrant financial district skyline at dusk, symbolizing its dynamic business climate.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80 "Bahrain finance business skyline")
 
 # The Ultimate Guide to Capital Requirements & Document Checklist for Companies in Bahrain (2025)

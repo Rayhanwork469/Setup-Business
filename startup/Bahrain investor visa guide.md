@@ -1,4 +1,4 @@
-```markdown
+
 ![Bahrain Investment Business District skyline. Modern towers and busy city street, symbolizing thriving investment opportunities.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)
 *Feature Image: Bahrain business district skyline — Alt text: Modern towers and vibrant city street representing investment opportunities and business growth in Bahrain. Source: Unsplash*
 

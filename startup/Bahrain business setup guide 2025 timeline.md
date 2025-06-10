@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: A modern Bahrain business district skyline with skyscrapers and sunset, symbolizing opportunities and growth.](https://images.pexels.com/photos/373912/pexels-photo-373912.jpeg)  
 *Alt text: Modern Bahrain business district skyline, reflecting economic growth and business opportunities.*
 

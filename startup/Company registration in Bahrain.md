@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image — Bahrain Skyline at Sunset](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1500&q=80)
 *Alt: Bahrain’s glittering skyline with skyscrapers and business buildings at sunset, reflecting Bahrain’s business-friendly environment.*  
 _Source: [Unsplash](https://unsplash.com/photos/brown-and-gray-buildings-under-blue-sky-during-daytime-1464983953574-0892a716854b)_

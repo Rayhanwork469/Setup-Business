@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Skyline with Business District - Photo by Kostiantyn Stupak on Pexels](https://images.pexels.com/photos/2962153/pexels-photo-2962153.jpeg?auto=compress&w=1200)
 *Alt text: Bahrain skyline at dusk with high-rise office buildings signaling a thriving business environment.*
 

@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern Bahrain Skyline with Business District - Feature Image](https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80)
 *Alt text: A panoramic view of Bahrain’s business district, illustrating business opportunity and international connectivity.*
 

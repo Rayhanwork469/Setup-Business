@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business professionals collaborating on documents in Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Businesspeople reviewing legal documents and digital files in a modern Bahraini office.*
 

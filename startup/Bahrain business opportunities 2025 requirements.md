@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business Opportunities 2025: Your Ultimate Guide to Requirements & Success 🔑💼
 
 *Published on June 4, 2025*

@@ -1,4 +1,4 @@
-```markdown
+
 # Open Bank Account in Bahrain for Company Benefits: The Ultimate 2025 Guide
 
 *Your authoritative, expert-backed roadmap to unlocking corporate banking in Bahrain – updated for today's global entrepreneurs.*

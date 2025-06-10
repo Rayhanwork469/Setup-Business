@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation Process: Your Expert Guide to Starting a Business in Bahrain (2025 Edition)
 
 *Last Updated: June 2025 | Author: [KeyLink Business Consultants](https://keylinkbh.com/)*

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Startup founders collaborating in a modern office, symbolizing Bahrain's evolving startup ecosystem.](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80 "Bahrain Startup Ecosystem Timeline - Feature Image")
 
 *Alt text: Young entrepreneurs in Bahrain brainstorming in a stylish office, representing innovation and startup culture.*

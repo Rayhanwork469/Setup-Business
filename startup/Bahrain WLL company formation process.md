@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain WLL Company Formation Process: The Complete 2025 Guide
 
 ![Business Professionals Collaborating in Bahrain Office](https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Cityscape with Business Buildings](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Modern skyscrapers and business environment in Bahrain at sunset (Source: Unsplash)*
 

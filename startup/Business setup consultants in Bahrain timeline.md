@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business district in Bahrain at sunset, showcasing high-rise buildings, business centers, and palm trees.](https://images.pexels.com/photos/3786123/pexels-photo-3786123.jpeg)
 *Feature image: Thriving business hub in Bahrain city center, source: Pexels*
 

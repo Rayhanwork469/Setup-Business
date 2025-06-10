@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Business District in GCC](https://images.unsplash.com/photo-1519125323398-675f0ddb6308)  
 *Alt text: High-rise business towers with palm trees, GCC cityscape, business hub*  
 Source: [Unsplash](https://unsplash.com/photos/photo-1519125323398-675f0ddb6308)

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business district in Bahrain, modern skyline, confident entrepreneurs](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1400&q=80)
 *Alt text: Bahrain business district skyline with confident business people discussing plans, demonstrating entrepreneurial ambition. Image source: Unsplash*
 

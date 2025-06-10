@@ -1,4 +1,4 @@
-```markdown
+
 ![Business district in Bahrain with modern skyscrapers and water in the foreground. Photo by Konevi on Pexels.](https://images.pexels.com/photos/1796724/pexels-photo-1796724.jpeg?auto=compress&w=1200)
 *Feature Image: Bahrain’s business-friendly skyline reflects its vibrant economy (alt text: Bahrain cityscape with modern buildings and water view)*
 

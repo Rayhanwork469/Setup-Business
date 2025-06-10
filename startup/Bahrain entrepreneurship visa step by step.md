@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Young Entrepreneur Filing Documents at Office Desk in Bahrain | Alt: Entrepreneur working on Bahrain visa application with business documents and laptop](https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?auto=format&fit=crop&w=1350&q=80)
 
 # Bahrain Entrepreneurship Visa: Step-by-Step Guide for 2025

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Registration Portal Cost: The Ultimate Guide (2025 Edition)
 
 ![Business setup illustration: People registering a company online using a computer portal. Modern office backdrop.](https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg)

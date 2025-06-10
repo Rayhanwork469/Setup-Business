@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain LLC Company Formation Timeline: The Ultimate 2025 Guide
 
 *Unlock the secrets to a swift and successful Bahrain LLC setup with expert insight, step-by-step timelines, and actionable tips!*

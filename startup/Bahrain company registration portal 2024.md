@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Business people using laptops and registering a company online (Source: Unsplash, "alt text: Entrepreneurs registering a company in Bahrain online portal")](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1500&q=80)
 
 # Bahrain Company Registration Portal 2024: The Ultimate Guide to Easy Online Incorporation

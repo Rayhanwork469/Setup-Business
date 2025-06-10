@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Skyline with Business People](https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80 "Entrepreneurs at work in Bahrain's Financial Harbour")
 *Alt text: Business professionals in front of Bahrain's skyline, highlighting entrepreneurship opportunities in the Gulf region.*
 

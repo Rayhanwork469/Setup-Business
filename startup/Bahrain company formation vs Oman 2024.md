@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern business skyscrapers in Manama, Bahrain at dusk, representing corporate growth and opportunity.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)
 *Alt text: Modern business skyscrapers in Manama, Bahrain at dusk, representing corporate growth and opportunity. Image source: Unsplash*
 

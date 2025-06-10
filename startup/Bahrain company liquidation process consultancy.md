@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Liquidation Process Consultancy – An Expert’s Guide to Exiting Gracefully
 
 ## Table of Contents

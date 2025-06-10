@@ -1,4 +1,4 @@
-```markdown
+
 ---
 
 # Bahrain Entrepreneurship Visa 2024: The Ultimate Guide to Startup Dreams in the Gulf

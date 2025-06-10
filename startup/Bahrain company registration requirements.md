@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern cityscape of Bahrain with business towers, symbolizing Bahrain company formation](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80 "Bahrain business district skyscrapers")
 
 # Bahrain Company Registration Requirements: The Expert’s In-Depth Guide

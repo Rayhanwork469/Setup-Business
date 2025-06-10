@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image - Modern Bahrain Business Skyline](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80 "Bahrain business skyline at dusk, a symbol of compliance and opportunity")
 
 # Bahrain Company Compliance Timeline: The Complete Guide for 2025

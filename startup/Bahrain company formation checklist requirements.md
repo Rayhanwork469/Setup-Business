@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation Checklist Requirements: The Ultimate Guide for 2025
 
 *Last updated: June 4, 2025 by an expert SEO strategist*  

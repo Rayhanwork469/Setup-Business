@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain Business Skyline](https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg)  
 *Feature image alt text: Bahrain cityscape with modern business towers at sunset, symbolizing growth and opportunity.*
 

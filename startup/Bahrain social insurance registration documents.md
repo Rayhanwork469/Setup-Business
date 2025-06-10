@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Social Insurance Registration Documents: The Definitive 2025 Guide
 
 **Author:** [Your Name], Expert in Gulf Business Regulations  

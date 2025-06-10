@@ -1,4 +1,4 @@
-```markdown
+
 ![Modern Business District in Bahrain Showing Skyscrapers and Busy Roads](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Feature Image: Bahrain's Financial Harbour Business District, Unsplash — Alt text: Modern business skyline in Bahrain’s capital, showcasing economic vitality and opportunity*
 

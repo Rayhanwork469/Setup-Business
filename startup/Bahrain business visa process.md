@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business professionals shaking hands in Bahrain with cityscape background](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Alt text: International business professionals shaking hands in Bahrain, symbolizing successful visa and trade relationships.*
 

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Aerial view of Manama city skyline, Bahrain, business skyscrapers, and the Arabian Gulf. Alt text: Modern business district of Manama, Bahrain, showing opportunity and openness for foreign investors.](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?fit=crop&w=1200&q=80)
 
 # Company Formation in Bahrain for Foreigners: The Complete 2025 Guide 🇧🇭

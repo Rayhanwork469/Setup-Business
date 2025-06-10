@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business people in modern Bahrain economic zone, skyscrapers and waterfront – source: Pexels, alt text: "Modern business district skyline in Bahrain’s economic zones"](https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg)
 
 # Bahrain Economic Zones Business Setup Requirements: The Complete Guide (2025)

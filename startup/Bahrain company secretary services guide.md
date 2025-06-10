@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Secretary Services Guide: The Definitive 2025 Handbook
 
 ![Bahrain Skyline at Dusk](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1400&q=80)

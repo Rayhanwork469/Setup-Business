@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain Skyline with Business District](https://images.unsplash.com/photo-1542223616-1e8a3e396b51?auto=format&fit=crop&w=1500&q=80)
 *Alt text: Bahrain skyline with modern skyscrapers and business district (Image source: Unsplash)*
 

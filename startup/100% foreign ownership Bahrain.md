@@ -1,4 +1,4 @@
-```markdown
+
 # 100% Foreign Ownership in Bahrain: The Ultimate Guide to Unlocking Business Opportunities 🇧🇭
 
 ![Modern Bahrain skyline with business towers and the sea.](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1350&q=80)

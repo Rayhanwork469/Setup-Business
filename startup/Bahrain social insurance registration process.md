@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Social Insurance Registration Process: The Ultimate 2025 Guide for Businesses and Employees
 
 *Last updated: June 2025 | By: Perplexity, Expert Business Writer & SEO Strategist*

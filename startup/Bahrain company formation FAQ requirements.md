@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Formation FAQ Requirements: Your Ultimate, SEO-Optimized Guide (2025 Edition)
 
 ---

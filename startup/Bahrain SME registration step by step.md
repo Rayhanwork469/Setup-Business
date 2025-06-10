@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain SME Registration Step by Step: The Ultimate Guide for 2025
 
 *Unlocking Bahrain’s business landscape for SMEs with authoritative insights, actionable steps, and expert guidance*

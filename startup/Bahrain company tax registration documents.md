@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business district in Bahrain with company documents and laptop on a desk | Source: Unsplash | alt="Bahrain business district with tax registration concept"]
 
 # Bahrain Company Tax Registration Documents: The Ultimate Guide for 2025

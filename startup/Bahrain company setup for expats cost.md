@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Company Setup for Expats: Costs, Insights & Step-by-Step Guide (2025)
 
 ![Modern Manama Skyline, Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)

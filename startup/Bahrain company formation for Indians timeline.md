@@ -1,4 +1,4 @@
-```markdown
+
 ![Business Skyline Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 *Feature image: Bahrain's commercial heart, representing a prime destination for Indian entrepreneurs. (Unsplash, alt: Bahrain business district skyline at sunset)*
 

@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business Permits and Licenses 2024: The Ultimate Guide
 
 *Unlocking Bahrain’s business potential in 2024 – your roadmap to hassle-free setup, compliance, and growth.*

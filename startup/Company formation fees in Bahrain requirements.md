@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain City Skyline with Business District – Photo by Konevi on Pexels](https://images.pexels.com/photos/358485/pexels-photo-358485.jpeg?auto=compress&w=1200&q=80 "Bahrain's business district skyline at sunset")
 
 # Company Formation Fees in Bahrain: Full Guide to Costs, Requirements & Insights (2025)

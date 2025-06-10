@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain business compliance concept with modern office buildings and financial charts](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Bahrain business compliance concept with modern office buildings and financial charts*
 

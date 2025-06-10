@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business People in a Modern Office in Bahrain](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1600&q=80)
 *Alt: Diverse business team discussing company formation in Bahrain*
 

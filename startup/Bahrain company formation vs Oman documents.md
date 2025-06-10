@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Business people analyzing company documents in a modern Gulf office](https://images.pexels.com/photos/3183207/pexels-photo-3183207.jpeg)
 *Alt text: Business professionals examining company formation documents in the Gulf region*
 ---

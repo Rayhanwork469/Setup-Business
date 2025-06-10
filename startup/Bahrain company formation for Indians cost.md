@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Bahrain City Business Skyline, for company formation](https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80)
 *Alt text: Bahrain city skyline with business towers representing opportunity for Indian entrepreneurs*
 

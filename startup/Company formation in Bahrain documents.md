@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Modern Downtown Bahrain Skyline, Ideal for Business Setup](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80 "Downtown Bahrain business image")
 
 # Company Formation in Bahrain: The Essential Documents and Process for 2025

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Aerial view of Bahrain's skyline, highlighting business opportunity](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=1200&q=80)
 *Alt text: Bahrain skyline with business district, representing company formation opportunities for UK citizens.*  
 *Image source: Unsplash*

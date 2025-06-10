@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Entrepreneurship Visa 2024: The Ultimate Guide for Ambitious Innovators 🚀
 
 *Your compass to unlocking business opportunities in Bahrain – fully updated for 2024.*

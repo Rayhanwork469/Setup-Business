@@ -1,4 +1,4 @@
-```markdown
+
 ![Business District of Bahrain – Feature Image](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1500&q=80 "Bahrain business skyline, showing economic growth")
 
 *Alt: Modern business district in Bahrain, demonstrating the country’s business-friendly environment*

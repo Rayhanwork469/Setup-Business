@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image: Bahrain downtown with skyscrapers, symbolizing business growth and compliance](https://images.pexels.com/photos/3408353/pexels-photo-3408353.jpeg?auto=compress&w=1200 "Modern Bahrain Business District")
 
 # Bahrain Company Audit Requirements & Cost: The Ultimate 2025 Guide

@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature Image – Modern Offices in Muharraq, Bahrain](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80)
 *Feature image: A thriving business center in Muharraq, Bahrain. Source: Unsplash. Alt text: Modern office buildings and entrepreneurs in Muharraq, Bahrain.*
 

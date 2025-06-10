@@ -1,4 +1,4 @@
-```markdown
+
 ![Business professionals working remotely using laptops, suits, and digital tools, symbolizing a virtual office in Bahrain.](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
 *Feature Image: Diverse group collaborating via laptops in a modern virtual office, representing business in Bahrain. Source: [Unsplash](https://unsplash.com/photos/man-using-macbook-kFHz9Xh3PPU)*
 

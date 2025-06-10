@@ -1,4 +1,4 @@
-```markdown
+
 ![Feature image: Modern office buildings in Manama, Bahrain, with cityscape – Source: Unsplash](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1200&q=80 "Modern business district in Bahrain - Unsplash")
 
 # Bahrain Company Formation for UK Citizens: Required Documents, Process, and Expert Tips

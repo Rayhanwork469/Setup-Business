@@ -1,4 +1,4 @@
-```markdown
+
 # Bahrain Business Setup Benefits: Unlocking Opportunities in the Gateway to the Gulf 🌍✨
 
 *Written by an experienced business consultant & SEO strategist. Last updated: June 3, 2025.*

@@ -1,1 +1,459 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Setup Guide | Bahrain Company Formation</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-light: #dbeafe;
+            --secondary: #64748b;
+            --light: #f8fafc;
+            --dark: #0f172a;
+            --border: #e2e8f0;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            color: var(--dark);
+            background-color: #f9fafb;
+            line-height: 1.6;
+        }
+        
+        .navbar {
+            background-color: white;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            padding: 1rem 0;
+        }
+        
+        .hero {
+            background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+            padding: 5rem 0 4rem;
+            border-bottom: 1px solid var(--border);
+        }
+        
+        .card {
+            border: none;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            height: 100%;
+            background-color: white;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+        }
+        
+        .card-title {
+            font-weight: 600;
+            margin-bottom: 0.75rem;
+            color: var(--dark);
+        }
+        
+        .card-body {
+            padding: 1.5rem;
+        }
+        
+        .category-badge {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            font-size: 0.75rem;
+            font-weight: 600;
+            padding: 0.25rem 0.75rem;
+            border-radius: 50px;
+            margin-bottom: 1rem;
+            display: inline-block;
+        }
+        
+        .section-title {
+            position: relative;
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+            font-weight: 700;
+            color: var(--dark);
+        }
+        
+        .section-title:after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 4px;
+            background-color: var(--primary);
+            border-radius: 2px;
+        }
+        
+        .description-text {
+            color: var(--secondary);
+            font-size: 0.95rem;
+        }
+        
+        .btn-primary {
+            background-color: var(--primary);
+            border: none;
+            padding: 0.5rem 1.25rem;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .btn-outline-primary {
+            color: var(--primary);
+            border-color: var(--primary);
+            border-radius: 8px;
+            font-weight: 500;
+        }
+        
+        .btn-outline-primary:hover {
+            background-color: var(--primary);
+        }
+        
+        footer {
+            background-color: var(--dark);
+            color: white;
+            padding: 3rem 0;
+            margin-top: 4rem;
+        }
+        
+        .filter-controls {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+            margin-bottom: 2rem;
+        }
+        
+        .search-box {
+            position: relative;
+        }
+        
+        .search-box input {
+            padding-left: 2.5rem;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+        }
+        
+        .search-box i {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--secondary);
+        }
+        
+        .filter-btn {
+            background: var(--light);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 0.5rem 1rem;
+            color: var(--secondary);
+            font-weight: 500;
+        }
+        
+        .filter-btn.active {
+            background-color: var(--primary-light);
+            color: var(--primary);
+            border-color: var(--primary);
+        }
+        
+        @media (max-width: 768px) {
+            .hero {
+                padding: 3rem 0 2rem;
+            }
+            
+            .section-title {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg sticky-top">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#">
+                <i class="bi bi-building me-2"></i>BusinessSetup
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Guides</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Resources</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container text-center">
+            <h1 class="display-5 fw-bold mb-3">Bahrain Business Setup Guides</h1>
+            <p class="lead col-lg-8 mx-auto mb-4">
+                Comprehensive resources for company formation, registration, and compliance in Bahrain
+            </p>
+            <div class="d-flex justify-content-center gap-2">
+                <button class="btn btn-primary">Get Started</button>
+                <button class="btn btn-outline-primary">Contact Us</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container py-5">
+        <!-- Filter Controls -->
+        <div class="filter-controls">
+            <div class="row g-3">
+                <div class="col-lg-8">
+                    <div class="search-box">
+                        <i class="bi bi-search"></i>
+                        <input type="text" class="form-control" placeholder="Search guides...">
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="d-flex gap-2">
+                        <button class="filter-btn active">All</button>
+                        <button class="filter-btn">Formation</button>
+                        <button class="filter-btn">Registration</button>
+                        <button class="filter-btn">Visa</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Guides Section -->
+        <section>
+            <h2 class="section-title">Business Formation Guides</h2>
+            <div class="row g-4">
+                <!-- Guide Cards -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Formation</span>
+                            <h3 class="card-title">100% Foreign Ownership Bahrain</h3>
+                            <p class="description-text">
+                                🚀 Kick-start your journey in 100% Foreign Ownership Bahrain? This guide gives you company registration! Start today with our simple process!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Cost</span>
+                            <h3 class="card-title">Bahrain Business Setup Cost</h3>
+                            <p class="description-text">
+                                ✨ Dive into the business world of Bahrain Business Setup Cost? Get the step-by-step process for business formation! Take the leap with our clear instructions!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Registration</span>
+                            <h3 class="card-title">Company Registration in Bahrain</h3>
+                            <p class="description-text">
+                                🌍 Looking to grow your business in Company Registration In Bahrain? Get the step-by-step process for company setup! Take the leap with our simple process!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Visa</span>
+                            <h3 class="card-title">Bahrain Investor Visa Guide</h3>
+                            <p class="description-text">
+                                🌍 Looking to grow your business in Bahrain Investor Visa Guide? Unlock the secrets to company registration! Step into success with our simple process!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Compliance</span>
+                            <h3 class="card-title">Bahrain Company Compliance</h3>
+                            <p class="description-text">
+                                ✨ Dive into the business world of Bahrain Company Compliance? This guide gives you company registration! Take the leap with our simple process!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <span class="category-badge">Tax</span>
+                            <h3 class="card-title">Bahrain VAT Registration</h3>
+                            <p class="description-text">
+                                🌍 Looking to grow your business in Bahrain VAT Registration For Companies? Unlock the secrets to company setup! Step into success with our simple process!
+                            </p>
+                            <a href="#" class="btn btn-sm btn-outline-primary mt-2">Read Guide</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Categories Section -->
+        <section class="mt-6 pt-5">
+            <h2 class="section-title">Popular Categories</h2>
+            <div class="row g-4">
+                <div class="col-md-4">
+                    <div class="card bg-primary text-white">
+                        <div class="card-body p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <div class="bg-white text-primary rounded-circle p-2 me-3">
+                                    <i class="bi bi-building fs-4"></i>
+                                </div>
+                                <h3 class="h5 mb-0">Company Formation</h3>
+                            </div>
+                            <p>Step-by-step guides for establishing various business entities in Bahrain with 100% foreign ownership options.</p>
+                            <a href="#" class="text-white fw-medium">Explore Guides <i class="bi bi-arrow-right ms-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="card bg-dark text-white">
+                        <div class="card-body p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <div class="bg-white text-dark rounded-circle p-2 me-3">
+                                    <i class="bi bi-file-text fs-4"></i>
+                                </div>
+                                <h3 class="h5 mb-0">Legal Compliance</h3>
+                            </div>
+                            <p>Essential information on Bahrain's regulatory requirements, tax obligations, and annual filing procedures.</p>
+                            <a href="#" class="text-white fw-medium">Explore Guides <i class="bi bi-arrow-right ms-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-4">
+                    <div class="card bg-secondary text-white">
+                        <div class="card-body p-4">
+                            <div class="d-flex align-items-center mb-3">
+                                <div class="bg-white text-secondary rounded-circle p-2 me-3">
+                                    <i class="bi bi-people fs-4"></i>
+                                </div>
+                                <h3 class="h5 mb-0">Visa & Immigration</h3>
+                            </div>
+                            <p>Comprehensive guides for investor visas, entrepreneurship visas, and residency requirements in Bahrain.</p>
+                            <a href="#" class="text-white fw-medium">Explore Guides <i class="bi bi-arrow-right ms-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- CTA Section -->
+        <section class="py-5 my-5 text-center">
+            <div class="bg-primary-light rounded-3 p-5">
+                <h2 class="h1 fw-bold mb-3">Need Personalized Assistance?</h2>
+                <p class="lead mb-4">Our business setup experts are ready to guide you through the entire process</p>
+                <button class="btn btn-primary btn-lg px-4">Schedule Free Consultation</button>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 mb-4 mb-lg-0">
+                    <h3 class="h5 mb-3">BusinessSetup</h3>
+                    <p>Your trusted partner for business formation and company registration services in Bahrain and the GCC region.</p>
+                    <div class="d-flex gap-3 mt-4">
+                        <a href="#" class="text-white"><i class="bi bi-facebook fs-5"></i></a>
+                        <a href="#" class="text-white"><i class="bi bi-twitter fs-5"></i></a>
+                        <a href="#" class="text-white"><i class="bi bi-linkedin fs-5"></i></a>
+                        <a href="#" class="text-white"><i class="bi bi-instagram fs-5"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 mb-4 mb-md-0">
+                    <h4 class="h6 mb-3">Services</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Company Formation</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Business Registration</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Visa Processing</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Legal Compliance</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Tax Registration</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-2 col-md-4 mb-4 mb-md-0">
+                    <h4 class="h6 mb-3">Resources</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Guides</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">FAQs</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Blog</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Documentation</a></li>
+                        <li class="mb-2"><a href="#" class="text-white text-decoration-none">Webinars</a></li>
+                    </ul>
+                </div>
+                <div class="col-lg-4 col-md-4">
+                    <h4 class="h6 mb-3">Contact Us</h4>
+                    <ul class="list-unstyled">
+                        <li class="mb-2 d-flex align-items-center">
+                            <i class="bi bi-geo-alt me-2"></i> Manama, Bahrain
+                        </li>
+                        <li class="mb-2 d-flex align-items-center">
+                            <i class="bi bi-telephone me-2"></i> +973 1234 5678
+                        </li>
+                        <li class="mb-2 d-flex align-items-center">
+                            <i class="bi bi-envelope me-2"></i> info@businesssetup.com
+                        </li>
+                        <li class="mt-4">
+                            <div class="input-group">
+                                <input type="email" class="form-control" placeholder="Your email">
+                                <button class="btn btn-primary">Subscribe</button>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <hr class="my-4 bg-light">
+            <div class="text-center">
+                <p class="mb-0">&copy; 2023 BusinessSetup. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
 

@@ -696,16 +696,19 @@ h1, h2, h3, h4, h5, h6 {
 .display-4 {
   font-weight: 700;
   line-height: 1.2;
+  color: var(--dark);
 }
 
 .display-5 {
   font-weight: 700;
   line-height: 1.2;
+  color: var(--dark);
 }
 
 .display-6 {
   font-weight: 700;
   line-height: 1.2;
+  color: var(--light);
 }
 
 /* Navigation */
@@ -988,7 +991,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   font-size: 1.1rem;
   line-height: 1.3;
-  color: var(--dark);
+  color: var(--light);
   margin-bottom: 0.75rem;
   display: -webkit-box;
   -webkit-line-clamp: 2;
